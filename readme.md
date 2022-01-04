@@ -9,5 +9,9 @@
 > 目前，我社正准备与王女士一同将此家软件的情况举报，以响应国家的防沉迷号召。
 
 ## 项目运行 ##
-
-`git clone https://github.com/AkaraChen/parentgenerator.git && cd parentgenerator && yarn install && npm run dev`
+```
+git clone https://github.com/AkaraChen/parentgenerator.git
+cd parentgenerator
+yarn
+yarn build
+```
